@@ -8,5 +8,6 @@ namespace CADLacma
 {
     public class Class1
     {
+      
     }
 }
